@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : ",company,product_code,product_number,full_address,name,product_category,company_philips,company_akzo,company_van_houten,company_unilever,product_smartphone,product_tv,product_laptop,product_tablet\n1,philips,p,5,\"Groningensingel 147,arnhem,the netherlands\",dhr p. jansen,smartphone,1,0,0,0,0,0,0,0\n2,philips,p,43,\"Groningensingel 148,arnhem,the netherlands\",dhr p. hansen,smartphone,1,0,0,0,0,0,0,0\n3,philips,x,3,\"Groningensingel 149,arnhem,the netherlands\",dhr j. Gansen,laptop,1,0,0,0,0,0,1,0\n4,philips,x,34,\"Groningensingel 150,arnhem,the netherlands\",dhr p. mansen,laptop,1,0,0,0,0,0,1,0\n5,philips,x,12,\"Groningensingel 151,arnhem,the netherlands\",dhr p. fransen,laptop,1,0,0,0,0,0,1,0\n6,philips,p,23,\"Groningensingel 152,arnhem,the netherlands\",dhr p. franssen,smartphone,1,0,0,0,0,0,0,0\n7,akzo,v,43,\"Leeuwardenweg 178,arnhem,the netherlands\",dhr p. bansen,tv,0,1,0,0,0,1,0,0\n8,akzo,v,12,\"Leeuwardenweg 179,arnhem,the netherlands\",dhr p. vansen,tv,0,1,0,0,0,1,0,0\n9,akzo,x,5,\"Leeuwardenweg 180,arnhem,the netherlands\",dhr p. bransen,laptop,0,1,0,0,0,0,1,0\n10,akzo,p,34,\"Leeuwardenweg 181,arnhem,the netherlands\",dhr p. janssen,smartphone,0,1,0,0,0,0,0,0\n11,akzo,q,5,\"Leeuwardenweg 182,arnhem,the netherlands\",mevr l.  rokken,tablet,0,1,0,0,0,0,0,1\n12,akzo,q,9,\"Leeuwardenweg 183,arnhem,the netherlands\",mevr l.  lokken,tablet,0,1,0,0,0,0,0,1\n13,akzo,x,8,\"Leeuwardenweg 184,arnhem,the netherlands\",mevr l.  mokken,laptop,0,1,0,0,0,0,1,0\n14,philips,p,56,\"Delfzijlstraat 54,arnhem,the netherlands\",mevr l.  mokken,smartphone,1,0,0,0,0,0,0,0\n15,philips,v,67,\"Delfzijlstraat 55,arnhem,the netherlands\",mevr l.  mokken,tv,1,0,0,0,0,1,0,0\n16,philips,v,21,\"Delfzijlstraat 56,arnhem,the netherlands\",mevr l.  mokken,tv,1,0,0,0,0,1,0,0\n17,van houten,x,45,\"Delfzijlstraat 57,arnhem,the netherlands\",mevr l.  sokken,laptop,0,0,1,0,0,0,1,0\n18,van houten,v,56,\"Delfzijlstraat 58,arnhem,the netherlands\",mevr l.  wokken,tv,0,0,1,0,0,1,0,0\n19,van houten,v,65,\"Delfzijlstraat 59,arnhem,the netherlands\",mevr l.  kokken,tv,0,0,1,0,0,1,0,0\n20,van houten,x,21,\"Delfzijlstraat 60,arnhem,the netherlands\",mevr l.  Bokken,laptop,0,0,1,0,0,0,1,0\n21,van houten,p,23,\"Delfzijlstraat 61,arnhem,the netherlands\",mevr l.  dokken,smartphone,0,0,1,0,0,0,0,0\n22,unilever,x,3,\"Jourestraat 23,arnhem,the netherlands\",mevr l.  gokken,laptop,0,0,0,1,0,0,1,0\n23,unilever,q,4,\"Jourestraat 24,arnhem,the netherlands\",mevr l.  stokken,tablet,0,0,0,1,0,0,0,1\n24,unilever,q,6,\"Jourestraat 25,arnhem,the netherlands\",mevr l.  rokken,tablet,0,0,0,1,0,0,0,1\n25,unilever,q,8,\"Jourestraat 26,arnhem,the netherlands\",mevr l.  rokken,tablet,0,0,0,1,0,0,0,1",
+    "created" : 1467829697491.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4082386672",
+    "id" : "6BF6FED6",
+    "lastKnownWriteTime" : 1467868437,
+    "last_content_update" : 1467868437968,
+    "path" : "~/Documents/Data wrangling exercise /data wrangling exercise 1 /refine_clean1.csv",
+    "project_path" : "refine_clean1.csv",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
